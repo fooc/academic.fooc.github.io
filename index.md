@@ -6,7 +6,7 @@ image:
   feature: mountain.jpg
 ---
 
-###Overview 
+### Overview 
 I am a PhD candidate in [Department of Compute Science](http://www.cs.cityu.edu.hk/), at [City University of Hong Kong](http://www.cityu.edu.hk/). My advisor is [Prof. Cong Wang](http://www.cs.cityu.edu.hk/~congwang/). I previously received my Master of Science degree and Bachelor of Science degree from [Illinois Institute of Technology](http://www.iit.edu/) and [Nanjing University of Posts and Telecommunications](http://www.njupt.edu.cn/) in 2010 and 2008, both majored in Electrical Engineering. Afterwards, I worked at [Stromasys S.A.](http://www.stromasys.com/) as Senior Software Engineer from 2011 to 2013, developing virtual SPARC and ALPHA servers on the x86 platform.
 
 <br />
@@ -14,7 +14,7 @@ I am interested in cloud security, network security, hardware security, and mobi
 
 ---
 
-###Recent Publication
+### Recent Publication
 
 - **Xingliang Yuan**, Xinyu Wang, Cong Wang, Jian Weng, and Kui Ren, "Enabling Secure and Fast Indexing for Privacy-assured Healthcare Monitoring via Compressive Sensing", **_IEEE Transactions on Multimedia_** (**_TMM_**), Accepted, 2016.
 
