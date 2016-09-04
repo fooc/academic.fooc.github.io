@@ -31,3 +31,17 @@ I am interested in cloud security, network security, hardware security, and mobi
 - **Xingliang Yuan**, Xinyu Wang, Jianxiong Lin and Cong Wang, "Privacy-preserving Deep Packet Inspection in Outsourced Middleboxes", In the _35th International Conference on Computer Communications_ (**_INFOCOM'16_**), _San Francisco, USA, 2016. (Acceptance ratio: 300/1644 = 18.25%)_
 
 - Helei Cui, **Xingliang Yuan**, Yifeng Zheng and Cong Wang, "Enabling Secure and Effective Near-duplicate Detection over Encrypted In-network Storage", In the _35th International Conference on Computer Communications_ (**_INFOCOM'16_**), _San Francisco, USA, 2016. (Acceptance ratio: 300/1644 = 18.25%)_
+
+### Teaching
+
+- Instructor: Semester A 2013/14, 2014/15, 2015/16, CS5222: Computer Network and Internet;
+- Tutor: Semester B 2014/15, 2015/16, CS5293 Topics on Information Security;
+- Tutor: Semester B 2014/15, 2015/16, CS4293 Topics on Computer Security;
+- Tutor: Semester B 2013/14, GE2323 Mobile Social Networks: Practices, Challenges, and Beyond;
+
+---
+
+### Services
+
+- Reviewer: IEEE TDSC, Security and Communication Networks;
+- Volunteer: INFOCOM 2015; [ASI 2014, Information Security and Privacy in Social Networks and Cloud Computing](http://conference.cs.cityu.edu.hk/asi14/index.htm).
