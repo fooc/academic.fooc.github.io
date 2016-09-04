@@ -32,6 +32,8 @@ I am interested in cloud security, network security, hardware security, and mobi
 
 - Helei Cui, **Xingliang Yuan**, Yifeng Zheng and Cong Wang, "Enabling Secure and Effective Near-duplicate Detection over Encrypted In-network Storage", In the _35th International Conference on Computer Communications_ (**_INFOCOM'16_**), _San Francisco, USA, 2016. (Acceptance ratio: 300/1644 = 18.25%)_
 
+---
+
 ### Teaching
 
 - Instructor: Semester A 2013/14, 2014/15, 2015/16, CS5222: Computer Network and Internet;
