@@ -7,10 +7,10 @@ image:
 ---
 
 ### Overview 
-I am a PhD candidate in [Department of Compute Science](http://www.cs.cityu.edu.hk/), at [City University of Hong Kong](http://www.cityu.edu.hk/). My advisor is [Prof. Cong Wang](http://www.cs.cityu.edu.hk/~congwang/). I previously received my Master of Science degree and Bachelor of Science degree from [Illinois Institute of Technology](http://www.iit.edu/) and [Nanjing University of Posts and Telecommunications](http://www.njupt.edu.cn/) in 2010 and 2008, both majored in Electrical Engineering. Afterwards, I worked at [Stromasys S.A.](http://www.stromasys.com/) as Senior Software Engineer from 2011 to 2013, developing virtual SPARC and ALPHA servers on the x86 platform.
+I am a Research Fellow in [Department of Compute Science](http://www.cs.cityu.edu.hk/) at [City University of Hong Kong](http://www.cityu.edu.hk/). I earned my PhD degree from [City University of Hong Kong](http://www.cityu.edu.hk/) under the supervision of [Prof. Cong Wang](http://www.cs.cityu.edu.hk/~congwang/) in August 2016. I received my MS degree and BS degree from [Illinois Institute of Technology](http://www.iit.edu/) and [Nanjing University of Posts and Telecommunications](http://www.njupt.edu.cn/) in 2010 and 2008, both majored in Electrical Engineering. I also worked at [Stromasys S.A.](http://www.stromasys.com/) as Senior Software Engineer from 2011 to 2013, developing virtual SPARC and ALPHA servers on the x86 platform. 
 
 <br />
-I am interested in cloud security, network security, hardware security, and mobile security.
+My research interests include cloud computing security, network security, mobile security, and hardware security, with current focus on designing encrypted search techniques for large-scale applications and building practical networked systems related to NFV security.
 
 ---
 
