@@ -16,7 +16,9 @@ My research interests include cloud computing security, network security, mobile
 
 ### Recent Publication
 
-- **Xingliang Yuan**, Xinyu Wang, Cong Wang, Jian Weng, and Kui Ren, "Enabling Secure and Fast Indexing for Privacy-assured Healthcare Monitoring via Compressive Sensing", **_IEEE Transactions on Multimedia_** (**_TMM_**), Accepted, 2016.
+- Yifeng Zheng, **Xingliang Yuan**, Xinyu Wang, Jinghua Jiang, Cong Wang, and Xiaolin Gui, "Towards Encrypted Cloud Media Centre with Secure Deduplication", **_IEEE Transactions on Multimedia_** (**_TMM_**), Accepted, 2016.
+
+- **Xingliang Yuan**, Xinyu Wang, Cong Wang, Jian Weng, and Kui Ren, "Enabling Secure and Fast Indexing for Privacy-assured Healthcare Monitoring via Compressive Sensing", **_IEEE Transactions on Multimedia_** (**_TMM_**), vol. 18, no. 10, page 1-13, 2016.
 
 - Helei Cui, **Xingliang Yuan** and Cong Wang, "Harnessing Encrypted Data in Cloud for Secure and Efficient Mobile Image Sharing", **_IEEE Transactions on Mobile Computing_** (**_TMC_**), Accepted, 2016.
 
