@@ -7,10 +7,10 @@ image:
 ---
 
 ### Overview 
-I am a Research Fellow in [Department of Compute Science](http://www.cs.cityu.edu.hk/) at [City University of Hong Kong](http://www.cityu.edu.hk/). I earned my PhD degree from [City University of Hong Kong](http://www.cityu.edu.hk/) under the supervision of [Prof. Cong Wang](http://www.cs.cityu.edu.hk/~congwang/) in August 2016. I received my MS degree and BS degree from [Illinois Institute of Technology](http://www.iit.edu/) and [Nanjing University of Posts and Telecommunications](http://www.njupt.edu.cn/) in 2010 and 2008, both majored in Electrical Engineering. I also worked at [Stromasys S.A.](http://www.stromasys.com/) as Senior Software Engineer from 2011 to 2013, developing virtual SPARC and ALPHA servers on the x86 platform. 
+I am currently a Research Fellow in [Department of Compute Science](http://www.cs.cityu.edu.hk/) at [City University of Hong Kong](http://www.cityu.edu.hk/). I earned my PhD degree from [City University of Hong Kong](http://www.cityu.edu.hk/) under the supervision of [Prof. Cong Wang](http://www.cs.cityu.edu.hk/~congwang/) in August 2016. I received my MS degree and BS degree from [Illinois Institute of Technology](http://www.iit.edu/) and [Nanjing University of Posts and Telecommunications](http://www.njupt.edu.cn/) in 2010 and 2008 respectively, both majored in Electrical Engineering. I also worked at [Stromasys S.A.](http://www.stromasys.com/) as Senior Software Engineer from 2011 to 2013, developing virtual SPARC and ALPHA servers on the x86 platform. 
 
 <br />
-My research interests include cloud computing security, network security, mobile security, and hardware security, with current focus on designing encrypted search techniques for large-scale applications and building practical networked systems related to NFV security.
+My research interests include cloud computing security, network security, mobile security, and hardware security, with the current focus on designing encrypted search techniques for large-scale applications and building secure and practical networked systems.
 
 ---
 
@@ -47,7 +47,13 @@ My research interests include cloud computing security, network security, mobile
 
 ---
 
+### Grant
+
+- Pi: Technology Start-up Support Scheme for Universities (TSSSU), HK ITC, Apr 2015 - Apr 2017;
+- Co-Pi: “Achieving Similarity Join Services for Outsourced Encrypted Datasets”, ITF Tier 3, HK ITC, Jul 2016 - Dec 2017;
+
 ### Services
 
-- Reviewer: IEEE TDSC, Security and Communication Networks;
+- Departmental Research Education Committee Member, CS Dept., CityU HK, 2014 - 2016
+- Reviewer: IEEE Transactions on Dependable and Secure Computing, Security and Communication Networks;
 - Volunteer: INFOCOM 2015; [ASI 2014, Information Security and Privacy in Social Networks and Cloud Computing](http://conference.cs.cityu.edu.hk/asi14/index.htm).
