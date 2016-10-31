@@ -16,6 +16,8 @@ My research interests include cloud computing security, network security, mobile
 
 ### Recent Publication
 
+- Jinghua Jiang\*, Yifeng Zheng\*, **Xingliang Yuan**, Zhenkui Shi, Xiaolin Gui, Cong Wang, and Jing Yao, "Towards Secure and Accurate Targeted Mobile Coupon Delivery", **_IEEE ACCESS_**, Accepted, 2016.
+
 - **Xingliang Yuan**, Xinyu Wang, Cong Wang, Anna Squicciarini, and Kui Ren, "Towards Privacy-preserving and Practical Image-centric Social Discovery", **_IEEE Transactions on Dependable and Secure Computing_** (**_TDSC_**), Accepted, 2016.
 
 - Yifeng Zheng, **Xingliang Yuan**, Xinyu Wang, Jinghua Jiang, Cong Wang, and Xiaolin Gui, "Towards Encrypted Cloud Media Centre with Secure Deduplication", **_IEEE Transactions on Multimedia_** (**_TMM_**), Accepted, 2016.
