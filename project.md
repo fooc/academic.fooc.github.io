@@ -27,7 +27,7 @@ Fulfilling those requirements will ease enterprises privacy and security concern
 
 <iframe src="https://player.vimeo.com/video/192397197" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/192397197">Towards Verifiable Outsourced Middleboxes</a></p>
-
+Credit: Huayi Duan, and Xingliang Yuan.
 
 ### Encrypted Distributed Data Store
 
