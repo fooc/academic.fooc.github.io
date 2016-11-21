@@ -25,10 +25,32 @@ Cloud Middlebox Service Architecture
 
 Fulfilling those requirements will ease enterprises privacy and security concerns, extend their visibility into remote middleboxes, and promote further adoption of NFV services. Preliminary results that address the above questions are published in [IEEE INFOCOM’16](http://ieeexplore.ieee.org/document/7524526/?arnumber=7524526) and [IEEE ICNP’16](). 
 
-Demo video: Towards Verifiable Outsourced Middleboxes
 <iframe src="https://player.vimeo.com/video/192397197" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/192397197">Towards Verifiable Outsourced Middleboxes</a> from <a href="https://vimeo.com/user42645865">Xingliang Yuan</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-Credit: Huayi Duan, Xingliang Yuan
+Credit: Huayi Duan, and Xingliang Yuan
+
+
+### Encrypted Distributed Data Store
+
+In order to manage the persistently growing amount of data, distributed data stores have become the backbone of many public cloud services. However, with increasing data breaches, privacy concerns in data outsourcing become even more pressing than before. To address those concerns, we start from the most widely adopted data store, i.e., key-value stores, and build an encrypted, distributed, and searchable key-value store. Specifically, we cope with the following challenges so that the proposed system will not sacrifice the benefits of existing systems. 
+
+1. How to securely distribute encrypted data across distributed nodes? 
+2. How to design an overlay that supports multiple data models with strong security guarantees?  
+3. How to design a framework for encrypted and distributed indexes that enable secure queries on secondary attributes of data?  
+
+<div style="text-align:center">
+<img  src="{{ site.BASE_PATH }}/images/kv.jpg" alt="Drawing" style="width: 300px;"/>
+<br>
+<br>
+Encrypted Key-value Store Architecture
+</div>
+<br>
+
+Our proposed encrypted key-value store achieves strong protection on data privacy while preserving prominent features of key-value stores. It is built on a secure data partition algorithm that distributes encrypted data evenly across a cluster of nodes. It also supports multiple data models in a privacy-preserving manner. To enable secure queries for encrypted secondary attributes of data, our design provides searchable encryption based encrypted secondary indexes which consider security, efficiency, and data locality simultaneously. The preliminary result is published in [ACM ASIACCS’16](http://dl.acm.org/citation.cfm?id=2897852). 
+
+<iframe src="https://player.vimeo.com/video/192397625" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/192397625">BlindDB - an Encrypted, Distributed, and Searchable Key-value Store</a> from <a href="https://vimeo.com/user42645865">Xingliang Yuan</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+Credit: Xinyu Wang, Jianxiong Lin, Xingliang Yuan, and Yu Guo.
 
 
 ### Privacy-assured Similarity Search for Large-scale Applications
@@ -57,25 +79,6 @@ Privacy-preserving Healthcare Monitoring System
 <br>
 
 To address those challenges, we proposed a secure cloud-based storage framework that allows fast data acquisition and indexing with strong privacy assurance. we first focus on the promising compressive sensing framework, for its well-known time and energy efficient data acquisition, with easy data sampling, compression, and recovery. The key observation is that the Euclidean norm of raw data is still preserved in the measurement space of compressed samples. Starting from there, we build a fast and encrypted index for compressed samples, which makes secure search over encrypted yet compressed data possible. In particular, for high throughput of indexing, we develop new encrypted index designs that take into account both the security guarantees of encrypted search as well as high-performance content-based indexing, and novel concurrent programming algorithms. The result is published in [IEEE TMM](). 
-
-
-### Encrypted Distributed Data Store
-
-In order to manage the persistently growing amount of data, distributed data stores have become the backbone of many public cloud services. However, with increasing data breaches, privacy concerns in data outsourcing become even more pressing than before. To address those concerns, we start from the most widely adopted data store, i.e., key-value stores, and build an encrypted, distributed, and searchable key-value store. Specifically, we cope with the following challenges so that the proposed system will not sacrifice the benefits of existing systems. 
-
-1. How to securely distribute encrypted data across distributed nodes? 
-2. How to design an overlay that supports multiple data models with strong security guarantees?  
-3. How to design a framework for encrypted and distributed indexes that enable secure queries on secondary attributes of data?  
-
-<div style="text-align:center">
-<img  src="{{ site.BASE_PATH }}/images/kv.jpg" alt="Drawing" style="width: 300px;"/>
-<br>
-<br>
-Encrypted Key-value Store Architecture
-</div>
-<br>
-
-Our proposed encrypted key-value store achieves strong protection on data privacy while preserving prominent features of key-value stores. It is built on a secure data partition algorithm that distributes encrypted data evenly across a cluster of nodes. It also supports multiple data models in a privacy-preserving manner. To enable secure queries for encrypted secondary attributes of data, our design provides searchable encryption based encrypted secondary indexes which consider security, efficiency, and data locality simultaneously. The preliminary result is published in [ACM ASIACCS’16](http://dl.acm.org/citation.cfm?id=2897852). 
 
 
 ### Secure Content Delivery via Encrypted In-network Caching
