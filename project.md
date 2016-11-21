@@ -26,8 +26,7 @@ Cloud Middlebox Service Architecture
 Fulfilling those requirements will ease enterprises privacy and security concerns, extend their visibility into remote middleboxes, and promote further adoption of NFV services. Preliminary results that address the above questions are published in [IEEE INFOCOM’16](http://ieeexplore.ieee.org/document/7524526/?arnumber=7524526) and [IEEE ICNP’16](). 
 
 <iframe src="https://player.vimeo.com/video/192397197" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/192397197">Towards Verifiable Outsourced Middleboxes</a> from <a href="https://vimeo.com/user42645865">Xingliang Yuan</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-Credit: Huayi Duan, and Xingliang Yuan
+<p><a href="https://vimeo.com/192397197">Towards Verifiable Outsourced Middleboxes</a></p>
 
 
 ### Encrypted Distributed Data Store
@@ -49,7 +48,7 @@ Encrypted Key-value Store Architecture
 Our proposed encrypted key-value store achieves strong protection on data privacy while preserving prominent features of key-value stores. It is built on a secure data partition algorithm that distributes encrypted data evenly across a cluster of nodes. It also supports multiple data models in a privacy-preserving manner. To enable secure queries for encrypted secondary attributes of data, our design provides searchable encryption based encrypted secondary indexes which consider security, efficiency, and data locality simultaneously. The preliminary result is published in [ACM ASIACCS’16](http://dl.acm.org/citation.cfm?id=2897852). 
 
 <iframe src="https://player.vimeo.com/video/192397625" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/192397625">BlindDB - an Encrypted, Distributed, and Searchable Key-value Store</a> from <a href="https://vimeo.com/user42645865">Xingliang Yuan</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://vimeo.com/192397625">BlindDB - an Encrypted, Distributed, and Searchable Key-value Store</a> </p>
 Credit: Xinyu Wang, Jianxiong Lin, Xingliang Yuan, and Yu Guo.
 
 
