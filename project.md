@@ -25,7 +25,10 @@ Cloud Middlebox Service Architecture
 
 Fulfilling those requirements will ease enterprises privacy and security concerns, extend their visibility into remote middleboxes, and promote further adoption of NFV services. Preliminary results that address the above questions are published in [IEEE INFOCOM’16](http://ieeexplore.ieee.org/document/7524526/?arnumber=7524526) and [IEEE ICNP’16](). 
 
-
+Demo video: Towards Verifiable Outsourced Middleboxes
+<iframe src="https://player.vimeo.com/video/192397197" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/192397197">Towards Verifiable Outsourced Middleboxes</a> from <a href="https://vimeo.com/user42645865">Xingliang Yuan</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+Credit: Huayi Duan, Xingliang Yuan
 
 
 ### Privacy-assured Similarity Search for Large-scale Applications
