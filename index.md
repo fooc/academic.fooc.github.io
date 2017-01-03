@@ -16,7 +16,7 @@ My research interests include cloud computing security, network security, mobile
 
 ### Recent Publication
 
-- Chenyun Yu, Sarana Nutanong, Hangyu Li, Cong Wang, and **Xingliang Yuan**, "A Generic Method for Accelerating LSH-based Similarity Join Processing", **_IEEE Transactions on Knowledge and Data Engineering_** (**_TKDE_**), Accepted, 2016.
+- **Yuchuan Luo**, Shaojing Fu, Dongsheng Wang, and Ming Xu, "Securely outsourcing of bilinear pairings with untrusted servers for cloud storage", in Proceedings of the 15th IEEE International conference on Trust, Security and Privacy in Computing and Communications (**_TrustCom 2016_**), Tianjing, China, August 23-26, 2016.
 
 
 ---
