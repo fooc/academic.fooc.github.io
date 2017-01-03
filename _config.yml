@@ -28,8 +28,8 @@ owner:
 links:
   # - title: Curriculum
   #   url: /cv/
-  - title: Publication
-    url: /publication/
+  #- title: Publication
+  #  url: /publication/
   - title: Project
     url: /project/
   # - title: Blog
